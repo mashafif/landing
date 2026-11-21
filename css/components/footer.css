@@ -1,0 +1,19 @@
+.footer{
+  height: 200px;
+  background-color: #0F2942;
+  display: flex;
+}
+
+.footer-content{
+  width: 400px;
+  margin: 50px auto;
+  color: white;
+  text-align: center;
+}
+
+.footer-content li{
+  list-style: none;
+  display: inline-block;
+  margin: 5px 20px;
+  font-size: 40px;
+}

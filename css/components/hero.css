@@ -1,0 +1,34 @@
+.hero-section{
+  background-image: linear-gradient(rgba(15, 27, 46, 0.45), rgba(15, 27, 46, 0.45)),url("https://plus.unsplash.com/premium_photo-1682148026899-d21f17c04e80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D");
+  height: 600px;
+  background-position: 50% 30% ;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 1px 1px gray;
+  display: flex;
+}
+
+.hero-content{
+  width: 800px;
+  margin: auto auto;
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.hero-content p{
+  color: #E2E8F0;
+  margin-bottom: 50px;
+
+}
+
+.hero-content a{
+  margin-top: 40px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #FF5A1F;
+  color : white
+}
+
+.hero-content a:hover{
+  background-color: #E04810;
+}
